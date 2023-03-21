@@ -4,7 +4,7 @@
 
 Nombre del Equipo: Equipo 3
 
-Enlace al proyecto orignal: [storyterlling](https://github.com/pawgs/storytelling)
+Enlace al proyecto orignal: [storytelling](https://github.com/pawgs/storytelling)
 
 Proyecto (código): 
 
