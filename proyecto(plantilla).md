@@ -4,6 +4,8 @@
 
 Nombre del Equipo: Equipo 3
 
+Enlace al proyecto orignal: [storyterlling](https://github.com/pawgs/storytelling)
+
 Proyecto (código): 
 
 Tipo/Género:  
@@ -19,7 +21,7 @@ Tipo/Género:
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: La Abuela Dorothea
 
 
 ### Historia
