@@ -1,8 +1,8 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling (template): Dorothea la abuela justiciera
 
-Nombre del Equipo: 
+Nombre del Equipo: Equipo 3
 
 Proyecto (código): 
 
